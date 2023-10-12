@@ -8,16 +8,4 @@
       width: 75%;
     }
   }
-
-  /* @media screen and (max-width: 1024px) {
-    .feature-list li.active {
-      height: 24rem;
-    }
-  } */
-
-  /* @media screen and (max-width: 640px) {
-    .feature-list li.active {
-      height: 32rem;
-    }
-  } */
 }
